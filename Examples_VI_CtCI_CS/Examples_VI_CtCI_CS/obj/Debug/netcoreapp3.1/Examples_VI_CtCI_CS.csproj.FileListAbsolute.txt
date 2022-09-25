@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\bin\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.exe
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\bin\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.deps.json
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\bin\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.runtimeconfig.json
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\bin\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\bin\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.dll
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\bin\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.pdb
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\obj\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\obj\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\obj\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\obj\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\obj\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\obj\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.dll
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\obj\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.pdb
+C:\Users\LENOVO\source\repos\23 September 2022\Examples_VI_CtCI_CS\Examples_VI_CtCI_CS\obj\Debug\netcoreapp3.1\Examples_VI_CtCI_CS.genruntimeconfig.cache
